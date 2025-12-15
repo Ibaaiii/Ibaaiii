@@ -2,7 +2,7 @@
 # Hi there, I'm Ibaaiii! 👋
 ## Junior Cybersecurity Analyst | Blue & Red Team Enthusiast
 
-[![HackerRank](https://img.shields.io/badge/-HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/YOUR_ID)
+[![HackerRank](https://img.shields.io/badge/-HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/kibabit)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-111111?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
 
@@ -54,15 +54,15 @@ I am a passionate **Junior Cybersecurity Analyst** currently honing my skills in
 
 ### 🌱 Currently Learning
 
-- **Certification:** Preparing for eJPT / OSCP
-- **Topic:** Advanced Active Directory Exploitation
-- **Tool:** Writing custom C2 frameworks in Python
+- **Master's Degree:** Cybersecurity & AI at Evolve
+- **Focus:** Web/Machine Pentesting, CTF, Forensics, OSINT
+- **Protocols & Services:** SSH, FTP, SMB, HTTP, WinRM, RDP, SQL (MariaDB/MySQL/MongoDB)
 
 ---
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [Ibai Profile](https://www.linkedin.com/in/YOUR_PROFILE)
+- **LinkedIn:** [Ibai Cachorro Vázquez](https://www.linkedin.com/in/ibai-cachorro-vázquez-268594341)
 - **Twitter:** [@IbaiSec](https://twitter.com/YOUR_HANDLE)
 - **Email:** `contact@example.com`
 
