@@ -2,8 +2,7 @@
 # Hi there, I'm Ibaaiii! 👋
 ## Junior Cybersecurity Analyst | Blue & Red Team Enthusiast
 
-[![HackerRank](https://img.shields.io/badge/-HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/kibabit)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-111111?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![HackerRank](https://img.shields.io/badge/-HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/users/2780515)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibai-cachorro-vázquez-268594341)
 
 ---
@@ -63,8 +62,7 @@ I am a passionate **Junior Cybersecurity Analyst** currently honing my skills in
 ### 📫 How to reach me
 
 - **LinkedIn:** [Ibai Cachorro Vázquez](https://www.linkedin.com/in/ibai-cachorro-vázquez-268594341)
-- **Twitter:** [@IbaiSec](https://twitter.com/YOUR_HANDLE)
-- **Email:** `contact@example.com`
+- **Email:** `ibaicachorro10@gmail.com`
 
 ---
 <p align="center">
