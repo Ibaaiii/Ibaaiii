@@ -1,70 +1,61 @@
+# Ibai Cachorro Vazquez
 
-# Hi there, I'm Ibaaiii! 👋
-## Junior Cybersecurity Analyst | Blue & Red Team Enthusiast
+**Junior SOC Analyst — Blue Team · Pentesting · SIEM · DevSecOps**
 
-[![HackerRank](https://img.shields.io/badge/-HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/users/2780515)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibai-cachorro-vázquez-268594341)
-
----
-
-I am a passionate **Junior Cybersecurity Analyst** currently honing my skills in penetration testing, network defense, and security automation. My goal is to bridge the gap between offensive and defensive security to build more resilient systems.
-
-### 🛡️ My Cybersecurity Toolkit
-
-**Offensive Security**
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
-![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white) 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-E8733F?style=for-the-badge&logo=burpsuite&logoColor=white) 
-![Nmap](https://img.shields.io/badge/Nmap-2D8C5B?style=for-the-badge)
-
-**Defensive & Analysis**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-**Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Madrid, Spain · [LinkedIn](https://linkedin.com/in/ibai-cachorro-vazquez-268594341) · [HackTheBox](https://app.hackthebox.com/users/2780515)
 
 ---
 
-### 📈 My HackTheBox Stats
+## About
 
-<!-- HTB STATS START -->
-*(These stats are automatically updated)*
-- **Rank:** Script Kiddie (Loading...)
-- **System Owns:** 0
-- **User Owns:** 0
-- **Points:** 0
-<!-- HTB STATS END -->
+Systems and cybersecurity technician with hands-on experience deploying production-grade security infrastructure.
+Currently finishing a Master's in Cybersecurity & AI at Evolve and completing an internship at Cibersare as a security technician.
+
+Focus areas: threat detection, incident response, security automation, and offensive security.
 
 ---
 
-### 🗂️ Featured Projects
+## Featured projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[HTB-Writeups](https://github.com/Ibaaiii/HTB-Writeups)** | Detailed documentation of solved HackTheBox machines and challenges. | Markdown, Methodology |
-| **[Cybersecurity-Projects](https://github.com/Ibaaiii/Cybersecurity-Projects)** | A collection of my personal coding projects and labs. | Python, Bash, Labs |
-| **[Network-Scanner](https://github.com/Ibaaiii/Cybersecurity-Projects)** | A custom network scanner for identifying open ports and services. | Python, Scapy |
-
----
-
-### 🌱 Currently Learning
-
-- **Master's Degree:** Cybersecurity & AI at Evolve
-- **Focus:** Web/Machine Pentesting, CTF, Forensics, OSINT
-- **Protocols & Services:** SSH, FTP, SMB, HTTP, WinRM, RDP, SQL (MariaDB/MySQL/MongoDB)
+| Repository | Description | Stack |
+|---|---|---|
+| [wazuh-kubernetes-siem](https://github.com/Ibaaiii/wazuh-kubernetes-siem) | Full Wazuh SIEM deployed on bare-metal Kubernetes + Suricata IDS | Wazuh · Kubernetes · Suricata · Ansible |
+| [devsecops-api-hardening](https://github.com/Ibaaiii/devsecops-api-hardening) | REST API attack lab + DevSecOps pipeline + Zero Trust hardening | Docker · Python · Bash · OWASP ZAP · Bandit |
+| [htb-writeups](https://github.com/Ibaaiii/htb-writeups) | HackTheBox machine writeups with methodology and tooling | Markdown |
+| [ansible-hardening-playbooks](https://github.com/Ibaaiii/ansible-hardening-playbooks) | Ansible SCA playbooks for Ubuntu hardening | Ansible · YAML |
+| [security-scripts](https://github.com/Ibaaiii/security-scripts) | Python and Bash scripts for security automation | Python · Bash |
 
 ---
 
-### 📫 How to reach me
+## Technical stack
 
-- **LinkedIn:** [Ibai Cachorro Vázquez](https://www.linkedin.com/in/ibai-cachorro-vázquez-268594341)
-- **Email:** `ibaicachorro10@gmail.com`
+**Blue Team / SIEM**
+Wazuh · Suricata · Ansible · Log analysis · Threat Detection · Incident Response
+
+**Pentesting**
+Nmap · Metasploit · Burp Suite · OWASP ZAP · Hashcat · OWASP Top 10
+
+**Infrastructure**
+Kubernetes · Docker · Proxmox · Linux (Ubuntu/Debian/Kali) · Windows Server · Active Directory
+
+**Scripting**
+Python · Bash · PowerShell
+
+**Compliance**
+ISO 27001 · GDPR · NIS2 · ENS · MITRE ATT&CK · CVSS 4.0
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibaaiii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Ibaaiii's Github Stats" />
-</p>
+
+## Certifications
+
+- eJPT — eLearnSecurity / INE (Jul 2026)
+- CompTIA Security+ (expected 2026)
+- Oracle Networking Basics — Oracle Academy
+
+---
+
+## HackTheBox
+
+Profile: [app.hackthebox.com/users/2780515](https://app.hackthebox.com/users/2780515)
+
+Writeups: [github.com/Ibaaiii/htb-writeups](https://github.com/Ibaaiii/htb-writeups)
